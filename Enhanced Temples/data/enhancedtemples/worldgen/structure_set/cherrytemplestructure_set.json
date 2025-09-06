@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 73910873,
+    "separation": 50,
+    "spacing": 100
+  },
+  "structures": [
+    {
+      "structure": "enhancedtemples:cherrytemple",
+      "weight": 1
+    }
+  ]
+}
