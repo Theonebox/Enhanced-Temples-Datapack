@@ -1,11 +1,11 @@
 {
-  "name": "enhancedtemples:deserttemple2start",
+  "name": "enhancedtemples:icespiketemplestart",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "enhancedtemples:deserttemple2/deserttemplestart",
+        "location": "enhancedtemples:icespiketemple/start",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"

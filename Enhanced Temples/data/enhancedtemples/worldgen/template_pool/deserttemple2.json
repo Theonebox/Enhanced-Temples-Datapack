@@ -5,7 +5,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1c1",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -14,7 +14,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1c2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -23,7 +23,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom3",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1c3",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -32,7 +32,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom4",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1c4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -41,7 +41,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom5",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1c5",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -50,7 +50,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom6",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1c6",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -59,7 +59,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom7",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1f1",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -68,7 +68,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom8",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1f2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -77,7 +77,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom9",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1f3",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -86,7 +86,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom10",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1f4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -95,7 +95,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom11",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1f5",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -104,7 +104,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom12",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1f6",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -113,7 +113,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom13",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r1",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -122,7 +122,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroom14",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -131,7 +131,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroomend1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r3",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -140,7 +140,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroomend2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -149,7 +149,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroomend3",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r5",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -158,7 +158,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/bigroomend4",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r6",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -167,7 +167,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/corner1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r7",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -176,7 +176,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/corner2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r8",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -185,7 +185,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/cross1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r9",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -194,7 +194,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/cross2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel1r10",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -203,7 +203,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/end1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c1",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -212,7 +212,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/end2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -221,7 +221,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/end3",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c3",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -230,7 +230,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/end4",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -239,7 +239,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/end5",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c5",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -248,7 +248,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/enterance1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c6",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -257,7 +257,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/hallway1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2c7",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -266,7 +266,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/hallway2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f1",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -275,7 +275,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/mediumroom1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -284,7 +284,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/mediumroom2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f3",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -293,7 +293,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/mediumroom3",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -302,7 +302,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/mediumroom4",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f5",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -311,7 +311,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/mediumroom5",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f6",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -320,61 +320,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/roadcross",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/roadcorner",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/roadend1",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/roadend2",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/roadend3",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/roadtcross",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/ruins1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2f7",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -383,7 +329,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/ruins2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h1",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -392,7 +338,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/ruins3",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h2",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -401,7 +347,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/ruins4",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h3",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -410,7 +356,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/ruins5",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -419,7 +365,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/smalldeserttemple",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h5",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -428,7 +374,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/sphinx",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h6",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -437,7 +383,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/stair1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h7",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -446,7 +392,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/stair2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h8",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -455,16 +401,7 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/straightroad",
-        "processors": "minecraft:empty",
-		"projection": "terrain_matching",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },
-    {
-      "weight": 100,
-      "element": {
-        "location": "enhancedtemples:deserttemple2/tcross1",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h9",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -473,7 +410,196 @@
     {
       "weight": 100,
       "element": {
-        "location": "enhancedtemples:deserttemple2/tcross2",
+        "location": "enhancedtemples:deserttemple2/deserttemplel2h10",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c1",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c2",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c3",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c4",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c5",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c6",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c7",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3c8",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3h1",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3h2",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3h3",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3h4",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplel3h5",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplepyrmid1",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplepyrmid2",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplepyrmid3",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttemplepyrmid4",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttempleroof1",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttempleroof2",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttempleroof3",
+        "processors": "minecraft:empty",
+		"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "location": "enhancedtemples:deserttemple2/deserttempleroof4",
         "processors": "minecraft:empty",
 		"projection": "rigid",
         "element_type": "minecraft:single_pool_element"
