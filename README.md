@@ -5,6 +5,7 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-Page-green?style=for-the-badge&logo=Modrinth
 )](https://modrinth.com/datapack/enhanced-temples)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/VzcX7feZ?style=for-the-badge&color=97CA00)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Theonebox/Enhanced-Temples-Datapack/total?style=for-the-badge&color=800080)
 ![Static Badge](https://img.shields.io/badge/1.21.6--1.21.11-blue?style=for-the-badge&label=Versions%3A)
 
 
