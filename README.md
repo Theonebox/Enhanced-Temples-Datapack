@@ -1,9 +1,9 @@
 ![Enhanced Temples Page Title](https://cdn.modrinth.com/data/cached_images/eeec6d1a8c336cbd5b649dcfc9ac1d62d691b0d1_0.webp)
 [![Curseforge](https://img.shields.io/badge/Curseforge-Page-grey?style=for-the-badge&logo=curseforge&color=FF6F00
 )](https://www.curseforge.com/minecraft/data-packs/enhanced-temples)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/1346391?style=for-the-badge&color=FF6F00)
 [![Modrinth](https://img.shields.io/badge/Modrinth-Page-green?style=for-the-badge&logo=Modrinth
 )](https://modrinth.com/datapack/enhanced-temples)
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/1346391?style=for-the-badge&color=FF6F00)
 ![Modrinth Downloads](https://img.shields.io/modrinth/dt/VzcX7feZ?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/1.21.6--1.21.11-blue?style=for-the-badge&label=Versions%3A)
 
